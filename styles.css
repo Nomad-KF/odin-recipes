@@ -1,18 +1,19 @@
-div {
-    background-color: red; 
-    color: white; 
-    font-size: 32px; 
-    text-align: center; 
+.odd {
+    background-color: rgb(238, 130, 238);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: rgb(0, 0, 225);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(61, 244, 113);
+    font-size: 24px;
     font-weight: bold;
-}
-
-p {
-    background-color: green; 
-    color: white; 
-    font-size: 18px;
-}
-
-button {
-    background-color: orange; 
-    font-size: 18px;
 }
